@@ -6,26 +6,21 @@ A production-ready, modular NLP pipeline designed to ingest multi-file Parquet r
 
 ## Repository Structure
 
+```text
 restaurant-review-nlp/
-│
-|
-├── src/                         
-│   ├── ingestion.py            
-│   ├── roberta.py               
-│   ├── spacy.py      
-│   ├── absa.py             
-│   ├── topic_modeling.py            
-│   └── plotly.py              
-│
-|
-├── results/                     
+├── src/
+│   ├── ingestion.py
+│   ├── roberta.py
+│   ├── spacy.py
+│   ├── absa.py
+│   ├── topic_modeling.py
+│   └── plotly.py
+├── results/
 │   ├── Screenshot 2026-08-18 230743.png
 │   ├── Screenshot 2026-08-18 230454.png
 │   └── Screenshot 2026-08-18 230535.png
-│
-|
-├── requirements.txt              
-└── README.md                     
+├── requirements.txt
+└── README.md                   
 
 ---
 
