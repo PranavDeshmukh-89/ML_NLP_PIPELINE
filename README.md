@@ -1,6 +1,6 @@
-# End-to-End Restaurant Review NLP & Analytics Pipeline
+# Restaurant Review NLP Analytics Pipeline
 
-A production-ready, modular NLP and data engineering pipeline designed to ingest multi-file Parquet review datasets, perform sarcasm and context-aware sentiment analysis, extract menu items, discover root-cause operational bottlenecks, and generate an executive dashboard exported as an interactive HTML report.
+A production-ready, modular NLP pipeline designed to ingest multi-file Parquet review datasets, perform sarcasm and context-aware sentiment analysis, extract menu items, discover root-cause operational bottlenecks, and generate an executive dashboard exported as an interactive HTML report.
 
 ---
 
