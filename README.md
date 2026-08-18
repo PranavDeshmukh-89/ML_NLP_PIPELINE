@@ -1,4 +1,4 @@
-# NLP Analytics Pipeline with ML Models
+# NLP Analytics with ML Models
 
 A production-ready, modular NLP pipeline designed to ingest multi-file Parquet review datasets, perform sarcasm and context-aware sentiment analysis, extract menu items, discover root-cause operational bottlenecks, and generate an executive dashboard exported as an interactive HTML report.
 
