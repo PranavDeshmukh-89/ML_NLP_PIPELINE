@@ -1,4 +1,4 @@
-# Restaurant Review NLP Analytics Pipeline
+# NLP Analytics Pipeline with ML Models
 
 A production-ready, modular NLP pipeline designed to ingest multi-file Parquet review datasets, perform sarcasm and context-aware sentiment analysis, extract menu items, discover root-cause operational bottlenecks, and generate an executive dashboard exported as an interactive HTML report.
 
@@ -8,6 +8,7 @@ A production-ready, modular NLP pipeline designed to ingest multi-file Parquet r
 
 restaurant-review-nlp/
 │
+|
 ├── src/                         
 │   ├── ingestion.py            
 │   ├── roberta.py               
@@ -16,11 +17,13 @@ restaurant-review-nlp/
 │   ├── topic_modeling.py            
 │   └── plotly.py              
 │
+|
 ├── results/                     
 │   ├── Screenshot 2026-08-18 230743.png
 │   ├── Screenshot 2026-08-18 230454.png
 │   └── Screenshot 2026-08-18 230535.png
 │
+|
 ├── requirements.txt              
 └── README.md                     
 
